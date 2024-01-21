@@ -1,2 +1,12 @@
 Hello world
 This is the change by tester two
+
+
+
+String s = "Java";
+
+for(int i=0;i<s.length();i++){
+	System.out.println(s.charAt(i));
+}
+
+
