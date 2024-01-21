@@ -1,2 +1,9 @@
 Hello world
 This is the change by tester two
+
+int a = new int[]{2,423,133};
+
+for(int n:a){
+	System.out.println(n);
+}
+
