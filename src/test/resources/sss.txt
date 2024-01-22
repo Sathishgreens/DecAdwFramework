@@ -9,6 +9,6 @@ for(int n:a){
 String s = "Java";
 
 for(int i=0;i<s.length();i++){
-	char c = s.charAt(i);
-	System.out.println(s.charAt(c));
+
+	System.out.println(s.charAt(i));
 }
