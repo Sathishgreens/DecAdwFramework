@@ -1,0 +1,14 @@
+Hello world
+This is the change by tester two
+
+int a = new int[]{2,423,133};
+
+for(int n:a){
+	System.out.println(n);
+}
+String s = "Java";
+
+for(int i=0;i<s.length();i++){
+	char c = s.charAt(i);
+	System.out.println(s.charAt(c));
+}
